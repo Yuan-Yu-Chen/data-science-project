@@ -8,6 +8,8 @@ Open geographic dataset of European cities, containing city name, latitude and l
 ## Methods and Tools
 Python, Pandas, NumPy, Matplotlib, Scipy Spatial, Jupyter Notebook.
 Two visualizations are created: point density scatter map and Voronoi polygon map.
+![Point Density Map](point_density.png)
+![Voronoi Polygon Map](voronoi.png)
 
 ## Key Findings and Limitation
 **Findings**: Cities starting with Z are concentrated in Central Europe. Voronoi diagram divides the region into zones where each zone is closer to its city than any other city.
